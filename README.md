@@ -56,7 +56,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajdhruvsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhruv's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajdhruvsingh&theme=tokyonight&hide_border=true" alt="Dhruv's streak stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=rajdhruvsingh&theme=tokyonight&hide_border=true" alt="Dhruv's streak stats" height="165"/>
 </p>
 
 <p align="center">
