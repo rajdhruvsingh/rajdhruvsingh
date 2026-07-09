@@ -12,7 +12,6 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
   <img src="https://komarev.com/ghpvc/?username=rajdhruvsingh&style=flat-square&color=blue" />
 </p>
 
----
 
 ### 🎯 What I'm up to right now
 
@@ -23,7 +22,6 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 - 🌱 Contributing to **Open Source**
 - 📫 Open to collaborating on backend and ML projects
 
----
 
 ### 🛠️ Tech I work with
 
@@ -42,7 +40,6 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
----
 
 ## 📌 Featured Projects
 
@@ -53,13 +50,11 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 | ❤️ **Heart Disease Prediction** | Machine learning model for early cardiovascular disease prediction. |
 | 🚗 **Ride Demand Prediction** | Predictive analytics model for forecasting transportation demand. |
 
----
 
 ## 🌱 Open Source
 
 - 🔧 Worked on improving real-world production code and collaborated through GitHub Pull Requests.
 
----
 
 ## 📊 GitHub Statistics
 
@@ -75,9 +70,8 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdhruvsingh&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
 
-## 🐍 Contributions
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajdhruvsingh/rajdhruvsingh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -85,16 +79,17 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 
 ## 🏆 GitHub Achievements
 
-- 🦈 Pull Shark
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=rajdhruvsingh&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
----
 
 ## 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/rajdhruvsingh">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="mailto:dhruv.raj319@email.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhruv-raj-singh-4b4575284/">
@@ -104,8 +99,7 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 
 </p>
 
----
 
 <p align="center">
-<i>"Backend by day. Machine Learning by curiosity. Always building."</i>
+<i>"Backend Engineering • Open Source • Machine Learning"</i>
 </p>
