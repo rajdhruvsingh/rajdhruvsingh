@@ -75,11 +75,6 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdhruvsingh&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajdhruvsingh&theme=tokyonight"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdhruvsingh&theme=tokyonight&utcOffset=5.5"/>
-</p>
-
 ---
 
 ## 🏆 GitHub Achievements
