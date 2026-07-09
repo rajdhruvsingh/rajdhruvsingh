@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?..." />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80" alt="GitHub Logo">
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhruv Raj Singh</h1>
