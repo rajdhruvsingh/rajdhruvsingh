@@ -57,7 +57,6 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 
 ## 🌱 Open Source
 
-- 🚀 Contributed to **KubeEdge ianvs** through the Linux Foundation ecosystem.
 - 🔧 Worked on improving real-world production code and collaborated through GitHub Pull Requests.
 
 ---
