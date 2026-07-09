@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?..." />
+</p>
+
 <h1 align="center">Hi 👋, I'm Dhruv Raj Singh</h1>
 
 <h3 align="center">
@@ -25,7 +29,7 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 
 ### 🛠️ Tech I work with
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -83,6 +87,10 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 
 <a href="mailto:dhruv.raj319@email.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rajdhruvsingh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/dhruv-raj-singh-4b4575284/">
