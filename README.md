@@ -77,11 +77,6 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
   <img src="https://raw.githubusercontent.com/rajdhruvsingh/rajdhruvsingh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rajdhruvsingh&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 
 ## 🤝 Connect With Me
