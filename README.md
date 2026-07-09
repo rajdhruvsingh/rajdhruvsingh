@@ -1,94 +1,105 @@
-<h1 align="center">Hey, I'm Dhruv 👋</h1>
+<h1 align="center">Hi 👋, I'm Dhruv Raj Singh</h1>
 
-<h3 align="center">Backend Developer (Django/DRF) · Machine Learning & Data Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Django+%26+DRF;Exploring+Machine+Learning+and+Deep+Learning;Diving+into+Data+Analysis+%26+Analytics;Learning+by+building%2C+one+project+at+a+time" alt="Typing SVG" />
-</p>
+<h3 align="center">
+Backend Developer • Machine Learning Enthusiast • Open Source Contributor
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajdhruvsingh&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
----
-
-### 🎯 What I'm up to right now
-
-- 🔧 Building backend projects with **Django** and **Django REST Framework (DRF)** — APIs, auth, models, the whole stack
-- 🤖 Learning **Machine Learning**, **Deep Learning**, and **NLP** fundamentals
-- 📊 Practicing **Data Analysis & Analytics** — cleaning, exploring, and visualizing data
-- 🧮 Sharpening **Data Structures & Algorithms in Java**
-- 📫 Interested in backend engineering, machine learning, and open-source collaboration
-
----
-
-### 🛠️ Tech I work with
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📌 A few things I've built
-
-<table>
-  <tr>
-    <td><b>🍽️ Canteen Recommendation System</b><br/>Recommender system built with Jupyter/Python</td>
-    <td><b>💬 Chat App</b><br/>Backend chat platform built using Django REST Framework with authentication, workspaces, channels, messaging, reactions, notifications, and activity tracking.</td>
-  </tr>
-  <tr>
-    <td><b>❤️ Heart Disease Prediction</b><br/>Early risk detection for cardiovascular disease using ML</td>
-    <td><b>🚗 Ride Prediction App</b><br/>Machine learning model for ride demand prediction using historical transportation data.</td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajdhruvsingh/github-stats/generated/overview.svg" alt="Dhruv's GitHub stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+Backend+Systems+with+Django+%26+DRF;Learning+Machine+Learning+and+Deep+Learning;Exploring+Data+Analytics+and+NLP;Always+Building%2C+Always+Learning" />
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="Dhruv's streak stats" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rajdhruvsingh&style=flat-square&color=blue" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Backend Developer specializing in **Django** and **Django REST Framework**
+- 🤖 Learning **Machine Learning**, **Deep Learning**, and **Natural Language Processing**
+- 📊 Exploring **Data Analysis & Visualization**
+- ☕ Solving **Data Structures & Algorithms in Java**
+- 🌱 Contributing to **Open Source**
+- 📫 Open to collaborating on backend and ML projects
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 💬 **Backend Chat Platform** | Built with Django REST Framework featuring JWT authentication, workspaces, channels, messaging, reactions, notifications, activity logs, and role-based access control. |
+| 🍽️ **Canteen Recommendation System** | Recommendation engine developed using Python and Jupyter Notebook. |
+| ❤️ **Heart Disease Prediction** | Machine learning model for early cardiovascular disease prediction. |
+| 🚗 **Ride Demand Prediction** | Predictive analytics model for forecasting transportation demand. |
+
+---
+
+## 🌱 Open Source
+
+- 🚀 Contributed to **KubeEdge ianvs** through the Linux Foundation ecosystem.
+- 🔧 Worked on improving real-world production code and collaborated through GitHub Pull Requests.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajdhruvsingh/github-stats/generated/overview.svg"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajdhruvsingh/github-stats/generated/languages.svg" alt="Top languages" />
+  <img src="./profile/streak.svg"/>
 </p>
-
----
-
-### 🏆 Achievements
-
-- 🦈 **Pull Shark** — GitHub achievement for merged pull requests
-
----
-
-### 🤝 Let's connect
 
 <p align="center">
-  <a href="https://github.com/rajdhruvsingh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dhruv-raj-singh-4b4575284/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://raw.githubusercontent.com/rajdhruvsingh/github-stats/generated/languages.svg"/>
 </p>
-
-<p align="center"><i>"Backend by day, ML by night — building things that actually work."</i></p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Achievements
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=rajdhruvsingh&theme=github-compact)
+- 🦈 Pull Shark
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/rajdhruvsingh">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dhruv-raj-singh-4b4575284/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<i>"Backend by day. Machine Learning by curiosity. Always building."</i>
+</p>
