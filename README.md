@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+backend+systems+with+Django+%26+DRF;Exploring+Machine+Learning+and+Deep+Learning;Diving+into+Data+Analysis+%26+Analytics;Learning+by+building%2C+one+project+at+a+time" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajdhruvsingh&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
 ---
 
 ### 🎯 What I'm up to right now
@@ -14,7 +18,7 @@
 - 🤖 Learning **Machine Learning**, **Deep Learning**, and **NLP** fundamentals
 - 📊 Practicing **Data Analysis & Analytics** — cleaning, exploring, and visualizing data
 - 🧮 Sharpening **Data Structures & Algorithms in Java**
-- 📫 Always down to talk backend architecture, ML basics, or data-driven projects
+- 📫 Interested in backend engineering, machine learning, and open-source collaboration
 
 ---
 
@@ -42,11 +46,11 @@
 <table>
   <tr>
     <td><b>🍽️ Canteen Recommendation System</b><br/>Recommender system built with Jupyter/Python</td>
-    <td><b>💬 Chat App</b><br/>Real-time chat application in Python</td>
+    <td><b>💬 Chat App</b><br/>Backend chat platform built using Django REST Framework with authentication, workspaces, channels, messaging, reactions, notifications, and activity tracking.</td>
   </tr>
   <tr>
     <td><b>❤️ Heart Disease Prediction</b><br/>Early risk detection for cardiovascular disease using ML</td>
-    <td><b>🚗 Ride Prediction App</b><br/>Predictive modeling for ride demand</td>
+    <td><b>🚗 Ride Prediction App</b><br/>Machine learning model for ride demand prediction using historical transportation data.</td>
   </tr>
 </table>
 
@@ -55,12 +59,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajdhruvsingh&show_icons=true&theme=tokyonight&hide_border=true" alt="Dhruv's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=rajdhruvsingh&theme=tokyonight&hide_border=true" alt="Dhruv's streak stats" height="165"/>
+  <img src="https://raw.githubusercontent.com/rajdhruvsingh/github-stats/generated/overview.svg" alt="Dhruv's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdhruvsingh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="Dhruv's streak stats" /></a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajdhruvsingh/github-stats/generated/languages.svg" alt="Top languages" />
 </p>
 
 ---
@@ -79,3 +86,9 @@
 </p>
 
 <p align="center"><i>"Backend by day, ML by night — building things that actually work."</i></p>
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=rajdhruvsingh&theme=github-compact)
