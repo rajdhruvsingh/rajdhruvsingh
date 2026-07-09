@@ -95,6 +95,8 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<img src="https://img.shields.io/badge/Discord-mr.nobody03211-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+
 </p>
 
 ---
