@@ -64,15 +64,20 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajdhruvsingh/github-stats/generated/overview.svg"/>
+<img src="https://streak-stats.demolab.com?user=rajdhruvsingh&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="./profile/streak.svg"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdhruvsingh&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajdhruvsingh/github-stats/generated/languages.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajdhruvsingh&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rajdhruvsingh&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajdhruvsingh&theme=tokyonight&utcOffset=5.5"/>
 </p>
 
 ---
