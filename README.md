@@ -45,22 +45,6 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 </p>
 
 
-## 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 💬 **[Backend Chat Platform](https://github.com/rajdhruvsingh/chat_app)** | **Django • DRF • JWT • RBAC** — Workspace-based chat platform with authentication, channels, messaging, reactions, notifications, activity logs, and role-based access control. |
-| 🍽️ **[Canteen Recommendation System](https://github.com/rajdhruvsingh/Canteen-Recommendation-System)** | **Python • Pandas • Jupyter** — Recommendation engine that suggests personalized canteen food options using data analysis techniques. |
-| ❤️ **[Heart Disease Prediction](https://github.com/rajdhruvsingh/Heart-Disease-Prediction)** | **Python • Scikit-learn • Pandas** — Machine learning model for predicting the likelihood of heart disease with data preprocessing and performance evaluation. |
-| 🚗 **[Ride Demand Prediction](https://github.com/rajdhruvsingh/Ride-Prediction-App)** | **Python • Machine Learning • Data Analytics** — Predictive model for forecasting ride demand using historical transportation data and visualization. |
-
-
-## 🌱 Open Source
-
-- 🔧 Worked on improving real-world production code and collaborated through GitHub Pull Requests.
-- 🔧 Collaborated with maintainers through code reviews and production-ready pull requests.
-
-
 ## 📊 GitHub Statistics
 
 <p align="center">
