@@ -12,10 +12,6 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Building+Backend+Systems+with+Django+%26+DRF;Learning+Machine+Learning+and+Deep+Learning;Exploring+Data+Analytics+and+NLP;Always+Building%2C+Always+Learning" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajdhruvsingh&style=flat-square&color=blue" />
-</p>
-
 
 ### 🎯 What I'm up to right now
 
