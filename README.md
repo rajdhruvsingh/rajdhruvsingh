@@ -45,26 +45,6 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 </p>
 
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=rajdhruvsingh&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdhruvsingh&theme=tokyonight"/>
-</p>
-
-
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajdhruvsingh/rajdhruvsingh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
-
-
 ## 🤝 Connect With Me
 
 <p align="center">
