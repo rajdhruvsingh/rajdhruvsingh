@@ -60,7 +60,3 @@ Backend Developer • Machine Learning Enthusiast • Open Source Contributor
 
 </p>
 
-
-<p align="center">
-<i>"Backend Engineering • Open Source • Machine Learning"</i>
-</p>
